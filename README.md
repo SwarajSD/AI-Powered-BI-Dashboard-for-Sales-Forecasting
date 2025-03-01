@@ -23,13 +23,17 @@ cd sales-forecasting-dashboard
 
 ### 2️⃣ Install Dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
 ### 3️⃣ Run Jupyter Notebooks
 
 Start Jupyter Notebook:
 
+```bash
 jupyter notebook
+```
 
 Open and execute the notebooks in this order:
 
