@@ -41,6 +41,17 @@ Open and execute the notebooks in this order:
 2. 2_Model_Training.ipynb
 3. 3_Visualization.ipynb
 
+### **5️⃣ Power BI Integration** (`README.md`)
+
+```markdown
+## 📊 Power BI Integration
+
+### 🔹 To Open the Power BI Dashboard:
+
+1️⃣ Install **Power BI Desktop** (if not already installed).  
+2️⃣ Open **`sales_forecasting.pbix`**.  
+3️⃣ Explore **interactive charts & insights** on past and predicted sales.
+
 ## Results & Insights
 
 🔹 **The model forecasts future sales trends based on historical data.**  
@@ -60,3 +71,4 @@ This project is licensed under the **MIT License**.
 ## 📧 Contact
 
 For queries or collaboration, reach out to **[Your Email]** or visit **SwarajSD**.
+```
