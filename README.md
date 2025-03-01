@@ -43,8 +43,6 @@ Open and execute the notebooks in this order:
 
 ### **5️⃣ Power BI Integration** (`README.md`)
 
-markdown
-
 ## 📊 Power BI Integration
 
 ### 🔹 To Open the Power BI Dashboard:
@@ -71,4 +69,4 @@ This project is licensed under the **MIT License**.
 
 ## 📧 Contact
 
-For queries or collaboration, reach out to **[Your Email]** or visit **SwarajSD**.
+For queries or collaboration, reach out to **SwarajSD**.
