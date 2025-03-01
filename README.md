@@ -1,11 +1,11 @@
 ﻿# AI-Powered-BI-Dashboard-for-Sales-Forecasting
 
-## Overview
+## 🚀 Overview
 
 This project predicts **future sales trends** using **Facebook Prophet** and visualizes results in **Power BI**.  
 It enables businesses to analyze past sales and forecast future revenue.
 
-## Key Features
+## 🔥 Key Features
 
 ✅ **Time-Series Forecasting** using Prophet  
 ✅ **Automated Data Preprocessing**  
@@ -37,11 +37,9 @@ jupyter notebook
 
 Open and execute the notebooks in this order:
 
-1. 1_Data_Preprocessing.ipynb
-2. 2_Model_Training.ipynb
-3. 3_Visualization.ipynb
-
-### **5️⃣ Power BI Integration** (`README.md`)
+1. Data_Preprocessing.ipynb
+2. Model_Training.ipynb
+3. Visualization.ipynb
 
 ## 📊 Power BI Integration
 
@@ -51,13 +49,13 @@ Open and execute the notebooks in this order:
 2️⃣ Open **`sales_forecasting.pbix`**.  
 3️⃣ Explore **interactive charts & insights** on past and predicted sales.
 
-## Results & Insights
+## 📌 Results & Insights
 
 🔹 **The model forecasts future sales trends based on historical data.**  
 🔹 **Power BI visualizes actual vs. predicted sales for decision-making.**  
 🔹 **Insights help in planning inventory, marketing, and budgeting.**
 
-## Future Improvements
+## 🤖 Future Improvements
 
 🔹 **Use Deep Learning (LSTM, Transformers) for better forecasting.**  
 🔹 **Integrate real-time data updates with Power BI & APIs.**  
